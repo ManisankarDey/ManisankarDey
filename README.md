@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/ManisankarDey/ManisankarDey/blob/main/f834253f-66b2-467b-883c-4bc92bab060a.png)
 <h1 align="center">Hi 👋, I'm Manisankar Dey</h1>
 <h3 align="center">Aspiring Full Stack Data Science and AI from India</h3>
 
